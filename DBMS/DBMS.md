@@ -5,6 +5,9 @@
 * If you are  having difficulty in reading make sure U atleast know the ⭐ marked questions to get minimum marks.
 * ⭐⭐ Are Repeated questions every year
 *  **I'm not responsible for any loss of marks or unexpected change in question paper! Refer at own risk!**
+
+## [LINKS FOR ALL MODULE NOTES](https://github.com/adithyapaib/VTU5thSem/tree/main/DBMS/Notes)
+
 #### Important Topics
 ---
 
