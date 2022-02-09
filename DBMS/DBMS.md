@@ -67,8 +67,11 @@
 - Guaranteeing Serializability by Two-Phase Locking
 - Recovery Techniques Based On Immediate Update
 
-----
-That is so funny! :joy:
+---
+**All the best!**
+---
+**Dont forget to Follow me and ⭐ this repo**
+
 
 
 
