@@ -20,6 +20,18 @@
 - Types of Interfaces 
 
 ##  Module 2
+- Syntax and Explation of ALTER, DROP, UPDATE, CREATE ...
+- Insertion , Deletion Anomalies (ON DELETE CASCADE)
+- What is Referencial Integrity constraints , How to implement it (PRIMARY, FOREIGN KEY) 
+- ⭐ One SQL OR RELATION ALGEBRA question (refer Old question papers) **10M**
+- Joins Types and eg (SQL and RA)
+- ⭐ ER to relation Mapping Algorithm **8-10M**
+
+#### Also Read
+- DML, DQL , DDL and DCL and its types 
+
+
+##  Module 3
 
 
 
