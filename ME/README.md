@@ -86,11 +86,11 @@
 
 ##  Module 5
 
-- Explain advantages and disadvantages of small scale industries
-- Case Study on Infosys and Microsoft , Narayan Morthy
-- Explain  i) KSSIDC ii) NSIC iii) MSME-DI iv) TECSOK v) KIADB vi) DIC
-- Characteristics of an SSI.
-- Briefly explain IPR, also Trademarks, copy rights & patents in IPR
+- ⭐⭐  Explain advantages and disadvantages of small scale industries
+- ⭐ Case Study on Infosys and Microsoft , Narayan Morthy
+- ⭐ Explain  i) KSSIDC ii) NSIC iii) MSME-DI iv) TECSOK v) KIADB vi) DIC
+- ⭐⭐ Characteristics of an SSI.
+- ⭐ Briefly explain IPR, also Trademarks, copy rights & patents in IPR
 
 
 #### Also Read
@@ -100,11 +100,3 @@
 **All the best!**
 ---
 **Don't forget to Follow me and ⭐ this repo**
-
-
-
-
-
-
-
-
