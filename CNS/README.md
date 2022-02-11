@@ -50,27 +50,32 @@
 
 ##  Module 4
 
-- ⭐⭐ Update Anomalies (NULL, Sporious , ..)
-- ⭐ Equivalence SUM Or Lossless SUM or ( Find the minimal or write Algorithm to minimize the FD )
-- ⭐ IR Rules 
--  Closure Property 
-- 
+- ⭐⭐ DOS and types 
+- ⭐⭐ RSA Algorithm with example
+- DES with diagram
+- ⭐ Hashing with diagram 
+- Firewall , Proxy server , Packet Filtering
 
 #### Also Read
--  1,2,3,4,5,MV BNF 
+- 4 types of attack 
+- Digital signature , 
+- Diffe HellMan key exchange with example 
+- SHA
 
 ##  Module 5
 
-- ⭐⭐ ACID transactions.
-- DeadLock Problem 
-- UNDO REDO 2 Phase locking 
-- ⭐ Concurrency Control and types of problems we may encounter with these two simple transactions if they run concurrently.
-- Recovery and Types of Failures.
-- Transaction and System Concepts (diagram)
+- ⭐⭐ CDN
+- ⭐⭐ Properties of audio and video 
+-  (Streaming Stored Video )HTTP , Adaptive streaming , UDP Streaming
+- Removing Jitter at the Receiver for Audio ,Fixed delay playout
+- Recovering from Packet Loss
+- RTP Header 
+- ⭐SIP call establishment when Alice knows Bob’s IP address
+-
 
 #### Also Read
-- Guaranteeing Serializability by Two-Phase Locking
-- Recovery Techniques Based On Immediate Update
+- Interleaving, Adaptive Playout Delay
+- Dynamic Adaptive Streaming over HTTP (DASH)
 
 ---
 **All the best!**
