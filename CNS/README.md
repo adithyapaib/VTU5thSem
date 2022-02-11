@@ -6,7 +6,7 @@
 * ⭐⭐ Are Repeated questions every year
 *  **I'm not responsible for any loss of marks or unexpected change in question paper! Refer at own risk!**
 
-## [LINKS FOR ALL MODULE NOTES](https://github.com/adithyapaib/VTU5thSem/tree/main/DBMS/Notes)
+## [LINKS FOR ALL MODULE NOTES](https://github.com/adithyapaib/VTU5thSem/tree/main/CNS/Notes)
 
 #### Important Topics
 ---
