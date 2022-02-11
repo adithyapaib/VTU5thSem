@@ -10,6 +10,22 @@
 
 #### Note : After refering to previous 8 years question papers I found these topic important and repetative. 
 
+---
+
+#### Module Difficulty level
+
+---
+
+
+| Module | Difficulty |
+| ----------- | ----------- |
+| 1 | ![difficulty](https://img.shields.io/badge/Difficulty-Hard-red) |
+| 2 | ![difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |
+| 3 | ![difficulty](https://img.shields.io/badge/Difficulty-Easy-green) |
+| 4 | ![difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |
+| 5 | ![difficulty](https://img.shields.io/badge/Difficulty-Easy-green) |
+
+
 #### Important Topics
 ---
 
@@ -39,6 +55,7 @@
 - Explain Herzberg’s two factor theory
 - Differentiate between manager and leader.
 - Directing
+- Barriers To Effective Communication
 
 
 ##  Module 3
@@ -82,7 +99,7 @@
 ---
 **All the best!**
 ---
-**Dont forget to Follow me and ⭐ this repo**
+**Don't forget to Follow me and ⭐ this repo**
 
 
 
