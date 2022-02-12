@@ -8,6 +8,19 @@
 
 ## [LINKS FOR ALL MODULE NOTES](https://github.com/adithyapaib/VTU5thSem/tree/main/CNS/Notes)
 
+---
+
+
+| Module | Difficulty |
+| ----------- | ----------- |
+| 1 | ![difficulty](https://img.shields.io/badge/Difficulty-Easy-green) |
+| 2 | ![difficulty](https://img.shields.io/badge/Difficulty-Hard-red) |
+| 3 | ![difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |
+| 4 | ![difficulty](https://img.shields.io/badge/Difficulty-Easy-green) |
+| 5 | ![difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |
+
+
+
 #### Important Topics
 ---
 
