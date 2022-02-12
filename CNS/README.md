@@ -14,7 +14,7 @@
 | Module | Difficulty |
 | ----------- | ----------- |
 | 1 | ![difficulty](https://img.shields.io/badge/Difficulty-Easy-green) |
-| 2 | ![difficulty](https://img.shields.io/badge/Difficulty-Hard-red) |
+| 2 | ![difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |
 | 3 | ![difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |
 | 4 | ![difficulty](https://img.shields.io/badge/Difficulty-Easy-green) |
 | 5 | ![difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |
