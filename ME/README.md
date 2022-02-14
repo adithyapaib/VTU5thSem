@@ -54,7 +54,6 @@
 #### Also Read
 - Explain Herzberg’s two factor theory
 - Differentiate between manager and leader.
-- Directing
 - Barriers To Effective Communication
 
 
