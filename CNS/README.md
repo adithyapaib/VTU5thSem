@@ -31,7 +31,7 @@
 - ⭐ One Email related question (POP3, SMTP , IMAP) 
 - HTTP persistant and Non persistant
 -  Diffrence between  (Remember ports) FTP, HTTP, SMTP, ... 
-- ⭐ Web Caching (Proxy server) 
+- ⭐ Web Caching (Proxy server), Cookies
 - ⭐⭐ HTTP message format response and request
 
 #### Also Read
