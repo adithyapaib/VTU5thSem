@@ -28,7 +28,7 @@
 
 
 - Application based questions on : ⭐⭐ Bittorent (P2P), DHT , ⭐⭐ DNS (Diagram and working)
-- ⭐ One Email related question (POP3, SMTP , IMAP) 
+- ⭐ One Email related question (POP3, SMTP , IMAP, HTTP) 
 - HTTP persistant and Non persistant
 -  Diffrence between  (Remember ports) FTP, HTTP, SMTP, ... 
 - ⭐ Web Caching (Proxy server), Cookies
