@@ -65,7 +65,7 @@
 
 - ⭐⭐ DOS and types 
 - ⭐⭐ RSA Algorithm with example
-- DES with diagram
+- DES , AES Steps  with diagram
 - ⭐ Hashing with diagram 
 - Firewall , Proxy server , Packet Filtering
 
