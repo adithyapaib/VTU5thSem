@@ -39,7 +39,7 @@
 
 ##  Module 2
 - ⭐Multiplexing and Demultiplexing of connections 
-- ⭐⭐3 Way HandShake in TCP and Connecetion Establishment and termination
+- ⭐⭐3 Way HandShake in TCP and Connection Establishment and termination
 - ⭐⭐TCP Segment
 - ⭐UDP Segment and Checksum
 - FSM RDT 2.0
