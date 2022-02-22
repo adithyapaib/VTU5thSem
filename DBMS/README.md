@@ -20,6 +20,7 @@
 - ⭐File System vs DB Diff  **7-8M**
 - Definations : Database , DBMS , Entity , Atribute, Cardinality, ....
 - ⭐⭐ Components of DBMS with diagram **8-10M**
+- Advantages of DBMS appraoch
 #### Also Read
 - Some types of ER digrams eg: Hospital DBMS, Bank etc. (will be in second option )
 - Types of Interfaces 
