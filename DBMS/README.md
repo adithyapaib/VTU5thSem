@@ -28,6 +28,7 @@
 ##  Module 2
 - Syntax and Explation of ALTER, DROP, UPDATE, CREATE ...
 - Insertion , Deletion Anomalies (ON DELETE CASCADE)
+- Joins (Equi , Natural , Theta , Inner , Outer
 - What is Referencial Integrity constraints , How to implement it (PRIMARY, FOREIGN KEY) 
 - ⭐ One SQL OR RELATION ALGEBRA question (refer Old question papers) **10M**
 - Joins Types and eg (SQL and RA)
