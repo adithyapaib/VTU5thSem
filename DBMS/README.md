@@ -43,6 +43,7 @@
 - ⭐⭐ Trigger Assertion Syntax and example 
 - ⭐ Cursor , Embeded EQL, SQLJ , Dynamic SQL( Shared varibales,...)
 - ⭐ THREE-TIER APPLICATION ARCHITECTURE (Advantages )
+- View
 
 #### Also Read
 - Stored Procedure 
