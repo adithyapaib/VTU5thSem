@@ -32,6 +32,7 @@
 - ⭐ One SQL OR RELATION ALGEBRA question (refer Old question papers) **10M**
 - Joins Types and eg (SQL and RA)
 - ⭐ ER to relation Mapping Algorithm **8-10M**
+- Data Types in SQL
 
 #### Also Read
 - DML, DQL , DDL and DCL and its types 
