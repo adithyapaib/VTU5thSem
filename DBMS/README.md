@@ -18,7 +18,7 @@
 - ⭐⭐ 3 Schema Architecture **8-10 M**
 - Database users .. (DBA , Designer etc ) **5-6M**
 - ⭐File System vs DB Diff  **7-8M**
-- Definations : Database , DBMS , Entity , Atribute, Cardinality, ....
+- Definitions : Database , DBMS , Entity , Atribute, Cardinality, ....
 - ⭐⭐ Components of DBMS with diagram **8-10M**
 - Advantages of DBMS appraoch
 #### Also Read
