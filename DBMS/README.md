@@ -15,12 +15,13 @@
 
 
 - Types of attributes **6-10M**
+- ⭐ Charecteristics of DBMS
 - ⭐⭐ 3 Schema Architecture **8-10 M**
 - Database users .. (DBA , Designer etc ) **5-6M**
 - ⭐ [File System vs DB Diff  **7-8M**](https://www.geeksforgeeks.org/difference-between-file-system-and-dbms/)
 - Definitions : Database , DBMS , Entity , Atribute, Cardinality, ....
 - ⭐⭐ Components of DBMS with diagram **8-10M**
-- Advantages of DBMS appraoch
+- ⭐ Advantages of DBMS appraoch
 #### Also Read
 - Some types of ER digrams eg: Hospital DBMS, Bank etc. (will be in second option )
 - Types of Interfaces 
