@@ -66,7 +66,7 @@
 ##  Module 5
 
 - ⭐⭐ ACID transactions.
-- DeadLock Problem 
+- 2 Types of problems : DeadLock Problem , Serial - Non serial
 - UNDO REDO 2 Phase locking 
 - ⭐ Concurrency Control and types of problems we may encounter with these two simple transactions if they run concurrently.
 - Recovery and Types of Failures.
