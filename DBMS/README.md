@@ -15,10 +15,13 @@
 
 
 - Types of attributes **6-10M**
+- ⭐ Charecteristics of DBMS
 - ⭐⭐ 3 Schema Architecture **8-10 M**
 - Database users .. (DBA , Designer etc ) **5-6M**
-- ⭐File System vs DB Diff  **7-8M**
+- ⭐ [File System vs DB Diff  **7-8M**](https://www.geeksforgeeks.org/difference-between-file-system-and-dbms/)
+- Definitions : Database , DBMS , Entity , Atribute, Cardinality, ....
 - ⭐⭐ Components of DBMS with diagram **8-10M**
+- ⭐ Advantages of DBMS appraoch
 #### Also Read
 - Some types of ER digrams eg: Hospital DBMS, Bank etc. (will be in second option )
 - Types of Interfaces 
@@ -26,10 +29,12 @@
 ##  Module 2
 - Syntax and Explation of ALTER, DROP, UPDATE, CREATE ...
 - Insertion , Deletion Anomalies (ON DELETE CASCADE)
+- Joins (Equi , Natural , Theta , Inner , Outer
 - What is Referencial Integrity constraints , How to implement it (PRIMARY, FOREIGN KEY) 
 - ⭐ One SQL OR RELATION ALGEBRA question (refer Old question papers) **10M**
 - Joins Types and eg (SQL and RA)
 - ⭐ ER to relation Mapping Algorithm **8-10M**
+- Data Types in SQL
 
 #### Also Read
 - DML, DQL , DDL and DCL and its types 
@@ -40,6 +45,7 @@
 - ⭐⭐ Trigger Assertion Syntax and example 
 - ⭐ Cursor , Embeded EQL, SQLJ , Dynamic SQL( Shared varibales,...)
 - ⭐ THREE-TIER APPLICATION ARCHITECTURE (Advantages )
+- View
 
 #### Also Read
 - Stored Procedure 
@@ -60,7 +66,7 @@
 ##  Module 5
 
 - ⭐⭐ ACID transactions.
-- DeadLock Problem 
+- 2 Types of problems : DeadLock Problem , Serial - Non serial
 - UNDO REDO 2 Phase locking 
 - ⭐ Concurrency Control and types of problems we may encounter with these two simple transactions if they run concurrently.
 - Recovery and Types of Failures.

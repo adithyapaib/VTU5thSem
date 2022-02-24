@@ -28,7 +28,7 @@
 
 
 - Application based questions on : ⭐⭐ Bittorent (P2P), DHT , ⭐⭐ DNS (Diagram and working)
-- ⭐ One Email related question (POP3, SMTP , IMAP) 
+- ⭐ One Email related question (POP3, SMTP , IMAP, HTTP) 
 - HTTP persistant and Non persistant
 -  Diffrence between  (Remember ports) FTP, HTTP, SMTP, ... 
 - ⭐ Web Caching (Proxy server), Cookies
@@ -39,7 +39,7 @@
 
 ##  Module 2
 - ⭐Multiplexing and Demultiplexing of connections 
-- ⭐⭐3 Way HandShake in TCP and Connecetion Establishment and termination
+- ⭐⭐3 Way HandShake in TCP and Connection Establishment and termination
 - ⭐⭐TCP Segment
 - ⭐UDP Segment and Checksum
 - FSM RDT 2.0
@@ -65,7 +65,7 @@
 
 - ⭐⭐ DOS and types 
 - ⭐⭐ RSA Algorithm with example
-- DES with diagram
+- DES , AES Steps  with diagram
 - ⭐ Hashing with diagram 
 - Firewall , Proxy server , Packet Filtering
 

@@ -18,6 +18,7 @@
 - ⭐⭐ 3 Schema Architecture **8-10 M**
 - Database users .. (DBA , Designer etc ) **5-6M**
 - ⭐File System vs DB Diff  **7-8M**
+- Advantages of DBMS
 - ⭐⭐ Components of DBMS with diagram **8-10M**
 #### Also Read
 - Some types of ER digrams eg: Hospital DBMS, Bank etc. (will be in second option )
