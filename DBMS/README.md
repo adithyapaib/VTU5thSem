@@ -19,6 +19,7 @@
 - ⭐⭐ 3 Schema Architecture **8-10 M**
 - Database users .. (DBA , Designer etc ) **5-6M**
 - ⭐ [File System vs DB Diff  **7-8M**](https://www.geeksforgeeks.org/difference-between-file-system-and-dbms/)
+- ⭐[JDBC Drivers](https://www.javatpoint.com/jdbc-driver)
 - Definitions : Database , DBMS , Entity , Atribute, Cardinality, ....
 - ⭐⭐ Components of DBMS with diagram **8-10M**
 - ⭐ Advantages of DBMS appraoch
