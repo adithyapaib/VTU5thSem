@@ -54,7 +54,6 @@
 #### Also Read
 - Explain Herzberg’s two factor theory
 - Differentiate between manager and leader.
-- Directing
 - Barriers To Effective Communication
 
 
@@ -90,11 +89,12 @@
 - ⭐ Case Study on Infosys and Microsoft , Narayan Morthy
 - ⭐ Explain  i) KSSIDC ii) NSIC iii) MSME-DI iv) TECSOK v) KIADB vi) DIC
 - ⭐⭐ Characteristics of an SSI.
-- ⭐ Briefly explain IPR, also Trademarks, copy rights & patents in IPR
+- ⭐ Briefly explain IPR, also Trade Secrets, Trademarks, copy rights & patents in IPR
 
 
 #### Also Read
 - Case Study on Captain G R Gopinath.
+- Steps to start a SSI
 
 ---
 **All the best!**
